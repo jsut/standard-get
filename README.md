@@ -1,4 +1,4 @@
-# XLN-Get
+# Standard-Get
 
 A very basic bash script to download, rename and zip images from [Scryfall](https://scryfall.com/). This will make them ready to use with [Xmage](https://github.com/magefree/mage) for some [sets](https://en.wikipedia.org/wiki/List_of_Magic:_The_Gathering_sets) of a highly commercialized trading card game.
 

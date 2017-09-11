@@ -1404,6 +1404,7 @@ function get-xln {
 }
 
 echo ""
+echo " Standard-Get "
 echo " https://github.com/dnklgr/standard-get "
 echo ""
 
