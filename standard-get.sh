@@ -1075,7 +1075,7 @@ function get-xln {
     echo " Downloading XLN images from Scryfall. This may take a while. "
     echo ""
 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/1.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/1.jpg -O "Adanto Vanguard.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/2.jpg -O "Ashes of the Abhorrent.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/3.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/4.jpg -O "Bellowing Aegisaur.full.jpg"
@@ -1089,12 +1089,12 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/12.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/13.jpg -O "Goring Ceratops.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/14.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/15.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/15.jpg -O "Imperial Lancer.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/16.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/17.jpg -O "Ixalan's Binding.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/18.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/19.jpg -O "Kinjalli's Sunwing.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/20.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/20.jpg -O "Legion Conquistador.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/21.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/22a.jpg -O "Legion's Landing.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/22b.jpg -O "Adanto, the First Fort.full.jpg"
@@ -1123,7 +1123,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/45.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/46.jpg -O "Arcane Adaptation.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/47.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/48.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/48.jpg -O "Chart a Course.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/49.jpg -O "Daring Saboteur.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/50.jpg -O "Deadeye Quartermaster.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/51.jpg -O "Deeproot Waters.full.jpg"
@@ -1137,7 +1137,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/59.jpg -O "Herald of Secret Streams.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/60.jpg -O "Jace, Cunning Castaway.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/61.jpg -O "Kopala, Warden of Waves.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/62.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/62.jpg -O "Lookout's Dispersal"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/63.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/64.jpg -O "Overflowing Insight.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/65.jpg -O "Opt.full.jpg"
@@ -1145,11 +1145,12 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/67.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/68.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/69.jpg -O "Prosperous Pirates.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/70.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/70.jpg -O "River Sneak.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/71.jpg -O "River's Rebuke.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/72.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/73.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/74.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/74a.jpg -O "Search for Azcanta.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/74b.jpg -O "Azcanta, the Sunken Ruin.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/75.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/76.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/77.jpg -O 
@@ -1159,7 +1160,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/81.jpg -O "Spell Pierce.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/82.jpg -O "Spell Swindle.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/83.jpg -O "Storm Fleet Aerialist.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/84.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/84.jpg -O "Storm Fleet Spy.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/85.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/86.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/87.jpg -O 
@@ -1167,7 +1168,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/89.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/90a.jpg -O "Arguel's Blood Fast.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/90b.jpg -O "Temple of Aclazotz.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/91.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/91.jpg -O "Bishop of the Bloodstained.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/92.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/93.jpg -O "Bloodcrazed Paladin.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/94.jpg -O "Boneyard Parley.full.jpg"
@@ -1180,31 +1181,31 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/101.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/102.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/103.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/104.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/104.jpg -O "Dire Fleet Ravager.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/105.jpg -O "Duress.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/106.jpg -O "Fathom Fleet Captain.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/107.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/108.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/109.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/110.jpg -O "Kitesail Freebooter.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/111.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/111.jpg -O "Lurking Chupacabra.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/112.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/113.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/114.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/115.jpg -O "Queen's Bay Soldier.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/116.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/116.jpg -O "Raider's Wake.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/117.jpg -O "Revel in Riches.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/118.jpg -O "Ruin Raider.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/119.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/119.jpg -O "Ruthless Knave.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/120.jpg -O "Sanctum Seeker.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/121.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/122.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/122.jpg -O "Skittering Heartstopper.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/123.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/124.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/125.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/126.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/126.jpg -O "Sword-Point Diplomacy.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/127.jpg -O "Regisaur Alpha.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/128.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/128.jpg -O "Vicious Conquistador.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/129.jpg -O "Vraska's Contempt.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/130.jpg -O "Walk the Plank.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/131.jpg -O "Wanted Scoundrels.full.jpg"
@@ -1213,10 +1214,10 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/134.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/135.jpg -O "Burning Sun's Avatar.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/136.jpg -O "Captain Lannery Storm.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/137.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/138.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/137.jpg -O "Captivating Crew.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/138.jpg -O "Charging Monstrosaur.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/139.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/140.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/140.jpg -O "Dinosaur Stampede.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/141.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/142.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/143.jpg -O 
@@ -1226,15 +1227,15 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/147.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/148.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/149.jpg -O "Lightning Strike.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/150.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/151.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/150.jpg -O "Lightning Crew.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/151.jpg -O "Makeshift Munitions.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/152.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/153.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/154.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/153.jpg -O "Otepec Huntmaster.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/154.jpg -O "Rampaging Ferocidon.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/155.jpg -O "Raptor Hatchling.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/156.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/157.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/158.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/157.jpg -O "Rigging Runner.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/158.jpg -O "Rile.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/159.jpg -O "Rowdy Crew.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/160.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/161.jpg -O "Star of Extinction.full.jpg"
@@ -1247,7 +1248,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/168.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/169.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/170.jpg -O "Tilonalli's Skinshifter.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/171.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/171.jpg -O "Trove of Temptation.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/172.jpg -O "Unfriendly Fire.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/173.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/174.jpg -O "Wily Goblin.full.jpg"
@@ -1257,7 +1258,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/178.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/179.jpg -O "Carnage Tyrant.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/180.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/181.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/181.jpg -O "Commune with Dinosaurs.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/182.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/183.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/184.jpg -O 
@@ -1266,14 +1267,15 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/187.jpg -O "Drover of the Mighty.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/188.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/189.jpg -O "Emperor's Vanguard.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/190.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/191.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/190.jpg -O "Grazing Whiptail.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/191a.jpg -O "Growing Rites of Itlimoc.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/191b.jpg -O "Itlimoc, Cradle of the Sun.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/192.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/193.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/194.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/195.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/196.jpg -O "Kumena's Omenspeaker.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/197.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/197.jpg -O "Merfolk Branchwalker.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/198.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/199.jpg -O "Old-Growth Dryads.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/200.jpg -O 
@@ -1286,7 +1288,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/207.jpg -O "Slice in Twain.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/208.jpg -O "Snapping Sailback.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/209.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/210.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/210.jpg -O "Thundering Spineback.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/211.jpg -O "Tishana's Wayfinder.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/212.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/213.jpg -O "Verdant Sun's Avatar.full.jpg"
@@ -1305,10 +1307,10 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/226.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/227.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/228.jpg -O "Shapers of Nature.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/229.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/229.jpg -O "Sky Terror.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/230.jpg -O "Tishana, Voice of Thunder.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/231.jpg -O "Vona, Magan Exterminist.full.jpg"
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/232.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/231.jpg -O "Vona, Butcher of Magan.full.jpg"
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/232.jpg -O "Vraska, Relic Seeker.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/233.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/234a.jpg -O "Conqueror's Galleon.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/234b.jpg -O "Conqueror's Foothold.full.jpg"
@@ -1316,7 +1318,7 @@ function get-xln {
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/235b.jpg -O "Lost Vale.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/236.jpg -O "Twilight Legion Battleship.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/237.jpg -O 
-    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/238.jpg -O 
+    wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/238.jpg -O "Fell Flagship.full.jpg"
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/239.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/240.jpg -O 
     wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/241.jpg -O "Pillar of Genesis.full.jpg"
