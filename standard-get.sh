@@ -2,7 +2,7 @@
 
 clear
 
-function get-kld {
+function get_kld {
 
     echo ""
     echo " Downloading KLD images from Scryfall. This may take a while. "
@@ -302,7 +302,7 @@ function get-kld {
 
 }
 
-function get-aer {
+function get_aer {
 
     echo ""
     echo " Downloading AER images from Scryfall. This may take a while. "
@@ -521,7 +521,7 @@ function get-aer {
     echo ""
 }
 
-function get-akh {
+function get_akh {
 
     echo ""
     echo " Downloading AKH images from Scryfall. This may take a while. "
@@ -834,7 +834,7 @@ function get-akh {
 
 }
 
-function get-hou {
+function get_hou {
 
     echo ""
     echo " Downloading HOU images from Scryfall. This may take a while. "
@@ -1069,7 +1069,7 @@ function get-hou {
 
 }
 
-function get-xln {
+function get_xln {
 
     echo ""
     echo " Downloading XLN images from Scryfall. This may take a while. "
@@ -1394,7 +1394,7 @@ wget -nc -q --show-progress https://img.scryfall.com/cards/large/en/xln/289.jpg 
 
 }
 
-function get-rix {
+function get_rix {
 
     echo ""
     echo " Downloading RIX images from Scryfall. This may take a while. "
@@ -1646,48 +1646,48 @@ do
         "Get images for Kaladesh KLD only")
             clear
             sleep 1
-            get-kld
+            get_kld
             break
             ;;
         "Get images for Aether Revolt AER only")
             clear
             sleep 1
-            get-aer
+            get_aer
             break
             ;;
         "Get images for Amonkhet AKH only")
             clear
             sleep 1
-            get-akh
+            get_akh
             break
             ;;
         "Get images for Hour of Devastation HOU only")
             clear
             sleep 1
-            get-hou
+            get_hou
             break
             ;;
         "Get images for Ixalan XLN only")
             clear
             sleep 1
-            get-xln
+            get_xln
             break
             ;;
         "Get images for Rivals of Ixalan RIX only")
             clear
             sleep 1
-            get-rix
+            get_rix
             break
             ;;
         "Get complete images for standard KLD AER AKH HOU XLN RIX")
             clear
             sleep 1
-            get-kld
-            get-aer
-            get-akh
-            get-hou
-            get-xln
-            get-rix
+            get_kld
+            get_aer
+            get_akh
+            get_hou
+            get_xln
+            get_rix
             break
             ;;
         "Quit")
